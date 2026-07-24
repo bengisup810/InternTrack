@@ -29,7 +29,7 @@ Bengisu
 
 ### 🏠 Main Screen
 
-![Main Screen](images/home.png)
+![Main Screen](images/hog)
 
 ### ➕ Add Application
 
