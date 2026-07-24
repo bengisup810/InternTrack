@@ -21,3 +21,16 @@ to manage internship applications.
 👩‍💻 Developer
 
 Bengisu
+## 📸 Screenshots
+
+### 🏠 Main Screen
+
+![Main Screen](images/home.png)
+
+### ➕ Add Application
+
+![Add Application](images/add.png)
+
+### ✏️ Update Application
+
+![Update Application](images/update.png)
